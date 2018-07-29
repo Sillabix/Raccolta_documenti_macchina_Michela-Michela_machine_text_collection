@@ -1,0 +1,16 @@
+{
+"CPIUui": "{#control(backspace)}",
+"CPpcs": "{#control(right)}",
+"CPpz": "{#control(g)}",
+"CPs": "{#control(s)}",
+"CPz": "{#control(left)}",
+"CPzs": "{#control(z)}",
+"Fn": "{#end}",
+"IUu": "{#control(cancel)}",
+"IUui": "{#backspace}",
+"SCPs": "{#right}",
+"Sn": "{#left}",
+"Snc": "{#up}",
+"ZPnc": "{#down}",
+"U": "=undo"
+}
